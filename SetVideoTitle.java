@@ -11,7 +11,7 @@ import java.util.Scanner;
  * <p>
  * 需要事先安装 <a href="https://exiftool.org/">ExifTool</a>，并配置好环境变量
  */
-public class RefreshMetaData {
+public class SetVideoTitle {
 
     /**
      * 文件列表

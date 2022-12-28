@@ -138,6 +138,7 @@ public class SetVideoTitle {
 
     public static String getFileType(File file) {
         String fileName = file.getName();
+        System.out.println("test");
         return fileName.substring(fileName.lastIndexOf("."));
     }
 
